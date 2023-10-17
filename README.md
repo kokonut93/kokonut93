@@ -3,15 +3,27 @@
 B.A in Political Science and International Studies, B.Ec in Economics (Mar 2012 – Aug 2016)  
 M.S in Digital Analytics, College of Computing (Mar 2021 – Aug 2023)  
 ### SKT FLY AI (June 2023 – Sep 2023)  
-  
-  
-  
+
+<br>
 ### Work Experience
 Joint Chiefs of Staff Interpretation Officer | Seoul, South Korea (Apr 2017 – May 2020)  
 Boston Consulting Group Research Assistant; Digital Payment | Seoul, Korea (Nov 2020 – Dec 2020)  
 Morai Inc. Data Analyst / Product Manager | Seoul, Korea Sep (2021 – Nov 2022)  
 
 ### Skills
+<p>
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+</p>
 
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kang-il-lee-9185941a9/)](https://www.linkedin.com/in/kang-il-lee-9185941a9/)
