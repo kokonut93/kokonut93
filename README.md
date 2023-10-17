@@ -1,13 +1,15 @@
 ### Education
-### Yonsei University
+##### Yonsei University
 B.A in Political Science and International Studies, B.Ec in Economics (Mar 2012 – Aug 2016)  
 M.S in Digital Analytics, College of Computing (Mar 2021 – Aug 2023)  
-### SKT FLY AI (June 2023 – Sep 2023)
+##### SKT FLY AI (June 2023 – Sep 2023)
 
 
 
 ### Work Experience
-
+Joint Chiefs of Staff Interpretation Officer | Seoul, South Korea (Apr 2017 – May 2020)  
+Boston Consulting Group Research Assistant; Digital Payment | Seoul, Korea (Nov 2020 – Dec 2020)  
+Morai Inc. Data Analyst / Product Manager | Seoul, Korea Sep (2021 – Nov 2022)  
 
 ### Skills
 
