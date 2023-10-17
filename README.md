@@ -8,10 +8,11 @@
 ### Work Experience
 - Joint Chiefs of Staff Interpretation Officer | Seoul, South Korea (Apr 2017 – May 2020)  
 - Boston Consulting Group Research Assistant; Digital Payment | Seoul, Korea (Nov 2020 – Dec 2020)  
-- Morai Inc. Data Analyst / Product Manager | Seoul, Korea Sep (2021 – Nov 2022)  
+- Morai Inc. Data Analyst / Product Manager | Seoul, Korea Sep (2021 – Nov 2022)
 
-<div align=center>
+
 ### Skills
+<div align=center>
 <p>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
