@@ -1,16 +1,16 @@
 ### Education
 ### Yonsei University  
-B.A in Political Science and International Studies, B.Ec in Economics (Mar 2012 – Aug 2016)  
-M.S in Digital Analytics, College of Computing (Mar 2021 – Aug 2023)  
+- B.A in Political Science and International Studies, B.Ec in Economics (Mar 2012 – Aug 2016)  
+- M.S in Digital Analytics, College of Computing (Mar 2021 – Aug 2023)  
 ### SKT FLY AI (June 2023 – Sep 2023)  
 
-<br>
-</br>
-### Work Experience
-Joint Chiefs of Staff Interpretation Officer | Seoul, South Korea (Apr 2017 – May 2020)  
-Boston Consulting Group Research Assistant; Digital Payment | Seoul, Korea (Nov 2020 – Dec 2020)  
-Morai Inc. Data Analyst / Product Manager | Seoul, Korea Sep (2021 – Nov 2022)  
 
+### Work Experience
+- Joint Chiefs of Staff Interpretation Officer | Seoul, South Korea (Apr 2017 – May 2020)  
+- Boston Consulting Group Research Assistant; Digital Payment | Seoul, Korea (Nov 2020 – Dec 2020)  
+- Morai Inc. Data Analyst / Product Manager | Seoul, Korea Sep (2021 – Nov 2022)  
+
+<div align=center>
 ### Skills
 <p>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -23,6 +23,7 @@ Morai Inc. Data Analyst / Product Manager | Seoul, Korea Sep (2021 – Nov 2022)
   <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 </p>
 
+</div>
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kang-il-lee-9185941a9/)](https://www.linkedin.com/in/kang-il-lee-9185941a9/)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leekangil93@gmail.com)](mailto:leekangil9301@gmail.com)
