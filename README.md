@@ -1,9 +1,7 @@
-### Hi there 👋
-
 ### Education
 ### Yonsei University
-### B.A in Political Science and International Studies, B.Ec in Economics (Mar 2012 – Aug 2016)
-### M.S in Digital Analytics, College of Computing (Mar 2021 – Aug 2023)
+B.A in Political Science and International Studies, B.Ec in Economics (Mar 2012 – Aug 2016)
+M.S in Digital Analytics, College of Computing (Mar 2021 – Aug 2023)
 ### SKT FLY AI (June 2023 – Sep 2023)
 
 
