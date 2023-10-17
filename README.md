@@ -5,6 +5,7 @@ M.S in Digital Analytics, College of Computing (Mar 2021 – Aug 2023)
 ### SKT FLY AI (June 2023 – Sep 2023)  
 
 <br>
+</br>
 ### Work Experience
 Joint Chiefs of Staff Interpretation Officer | Seoul, South Korea (Apr 2017 – May 2020)  
 Boston Consulting Group Research Assistant; Digital Payment | Seoul, Korea (Nov 2020 – Dec 2020)  
