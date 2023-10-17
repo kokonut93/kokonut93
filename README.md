@@ -11,6 +11,11 @@ M.S in Digital Analytics, College of Computing (Mar 2021 – Aug 2023)
 
 ### Skills
 
+
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kang-il-lee-9185941a9/)](https://www.linkedin.com/in/kang-il-lee-9185941a9/)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leekangil93@gmail.com)](mailto:leekangil9301@gmail.com)
+
+
 <!--
 **kokonut93/kokonut93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
